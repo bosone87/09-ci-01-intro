@@ -24,7 +24,7 @@
 </p>
 
 <p align="center">
-  <img width="1200 height="600" src="./types_workflow_bug_asign.png">
+  <img width="1000 height="500" src="./types_workflow_bug_asign.png">
 </p>
 
 <p align="center">
